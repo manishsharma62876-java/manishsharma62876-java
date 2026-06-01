@@ -1,62 +1,198 @@
-## 👋 Hi, I'm Manish Sharma
+# Hi 👋, I'm Manish Sharma
 
-### 💻 Full Stack Java Developer
+### Java Backend Developer | Spring Boot Developer
 
-🚀 Passionate Full Stack Developer with a strong foundation in building scalable and efficient web applications. I specialize in both **frontend and backend development**, creating seamless user experiences backed by robust server-side logic.
+Passionate Java Backend Developer with strong knowledge of Java, Spring Boot, REST APIs, SQL, and Database Design. I enjoy building scalable backend applications and continuously improving my skills by working on real-world projects.
 
 ---
 
-### 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-💡 **Backend Development**
+* 🌱 Currently learning **Spring Security & JWT Authentication**
+* 💻 Focused on **Backend Development using Java & Spring Boot**
+* 📚 Completed 1 year of intensive training at Naresh i Technologies
+* 🚀 Interested in building scalable RESTful APIs and enterprise applications
+* 🎯 Looking for opportunities as a **Java Backend Developer**
+* 📍 Hyderabad, India
 
-* Java (Core Java, Java EE)
-* Spring Boot (REST APIs, Microservices, Security)
+---
 
-🎨 **Frontend Development**
+## 🛠️ Technical Skills
 
-* HTML5, CSS3, JavaScript
-* React.js (Modern UI Development)
+### Programming Languages
 
-🗄️ **Database & Tools**
+* Java
+* SQL
+
+### Core Java
+
+* OOP Concepts
+* Collections Framework
+* Exception Handling
+* Multithreading
+* Java 8 Features
+
+  * Lambda Expressions
+  * Stream API
+  * Functional Interfaces
+  * Optional
+
+### Advanced Java
+
+* JDBC
+* Servlets (Basics)
+* JSP (Basics)
+
+### Database
 
 * MySQL
-* Git & GitHub
-* RESTful API Design
+* SQL Queries
+* Joins
+* Subqueries
+* Normalization
+* Constraints
+* Indexing
+
+### Spring Framework
+
+* Spring Core
+* Dependency Injection (DI)
+* Bean Lifecycle
+* Spring Boot
+
+### Spring Data JPA
+
+* Entity Mapping
+* Repository Pattern
+* JPQL
+* Native Queries
+* Pagination
+* Sorting
+
+### REST API Development
+
+* CRUD Operations
+* Request Validation
+* DTO Pattern
+* Global Exception Handling
+* API Documentation using Swagger/OpenAPI
+
+### JPA Relationships
+
+* One-To-One
+* One-To-Many
+* Many-To-One
+* Many-To-Many
+
+### Security
+
+* Spring Security
+* JWT Authentication
+
+### Build Tools
+
+* Maven
+
+### Version Control
+
+* Git
+* GitHub
+
+### API Testing Tools
+
+* Postman
+* Swagger UI
+
+### Development Tools
+
+* IntelliJ IDEA
+* Eclipse
+* VS Code
+* MySQL Workbench
 
 ---
 
-### 🔥 What I Do
+## 🚀 Projects
 
-✔️ Design and develop responsive web applications
-✔️ Build secure and scalable REST APIs using Spring Boot
-✔️ Implement authentication & authorization (Spring Security & JWT)
-✔️ Create dynamic and user-friendly interfaces using React
-✔️ Work on real-world projects with clean architecture
+### 🍔 Food Delivery Management System
 
----
+Backend application developed using Spring Boot and MySQL.
 
-### 🌱 Currently Growing
+#### Features
 
-* Advanced Spring Boot & Microservices
-* System Design & Backend Optimization
-* Full Stack Project Development
+* User Management
+* Restaurant Management
+* Menu Management
+* Order Processing
+* Validation Handling
+* Exception Handling
+* Swagger Documentation
 
----
+#### Technologies
 
-### 📌 Projects
-
-🔹 **Bank Application**
-A secure banking system built with Spring Boot, featuring account management, transactions, and REST APIs.
+Java, Spring Boot, Spring Data JPA, MySQL, Maven
 
 ---
 
-### 📫 Connect With Me
+### 🏥 Hospital Management System
 
-📧 Email: [manishsharma62876@gmail.com](mailto:manishsharma62876@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/manish-sharma-6964a0383/
-💻 GitHub: https://github.com/manishsharma62876-java
+Backend application for managing patients, doctors, appointments, and hospital operations.
+
+#### Features
+
+* Patient Management
+* Doctor Management
+* Appointment Scheduling
+* CRUD Operations
+* DTO Mapping
+* Exception Handling
+* API Documentation
+
+#### Technologies
+
+Java, Spring Boot, Spring Data JPA, MySQL, Maven
 
 ---
 
-⭐ *"Building efficient, scalable, and user-focused applications is my passion."*
+## 📚 Currently Learning
+
+* Spring Security
+* JWT Authentication
+* Role-Based Authorization
+* Microservices Architecture
+* Docker Fundamentals
+* System Design Basics
+
+---
+
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manishsharma62876-java\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manishsharma62876-java\&layout=compact)
+
+---
+
+## 🤝 Connect With Me
+
+### Email
+
+[manish62876@gmail.com](mailto:manish62876@gmail.com)
+
+### GitHub
+
+https://github.com/manishsharma62876-java
+
+### LinkedIn
+
+(Add your LinkedIn profile URL here)
+
+### Location
+
+Hyderabad, India
+
+---
+
+## 🎯 Career Objective
+
+Seeking an opportunity as a Java Backend Developer where I can apply my knowledge of Java, Spring Boot, REST APIs, SQL, and Backend Development while continuously learning modern technologies and contributing to impactful software solutions.
