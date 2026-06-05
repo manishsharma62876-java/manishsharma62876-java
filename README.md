@@ -22,7 +22,7 @@ Passionate Full Stack Developer with expertise in building scalable and secure w
 ## 📫 Contact Information
 
 * 👤 **Name:** Manish Sharma
-* 📧 **Email:** [manish62876@gmail.com](mailto:manish62876@gmail.com)
+* 📧 **Email:** [manishsharma62876@gmail.com]
 * 📱 **Phone:** +91 9572114007
 * 📍 **Location:** Hyderabad, India
 * 💼 **LinkedIn:** https://www.linkedin.com/in/manish-sharma-6964a0383/
